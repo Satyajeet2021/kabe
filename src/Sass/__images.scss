@@ -1,0 +1,13 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 2rem;
+
+   img {
+    border-radius: 10px;
+   }
+    
+}
